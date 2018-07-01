@@ -127,7 +127,7 @@ static int descriptionSectionIndex = 3;
                                            selector:@selector(openMyScheduleFromUrl)
                                                name:@"openMyScheduleFromUrl"
                                              object:nil];
-  self.currentBarColor = [DCAppConfiguration eventDetailNavBarTextColor];
+    self.currentBarColor = [DCAppConfiguration eventDetailNavBarTextColor];
 }
 
 

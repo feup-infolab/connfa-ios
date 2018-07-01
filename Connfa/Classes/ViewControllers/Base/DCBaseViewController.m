@@ -35,6 +35,7 @@
              forBarMetrics:UIBarMetricsDefault];
     self.navigationController.navigationBar.shadowImage = [UIImage new];
     self.navigationController.navigationBar.translucent = YES;
+      self.navigationController.navigationBar.alpha = 0.0f;
   }
 
   // hide annoying 1 px stripe between NavigationBar and controller View
