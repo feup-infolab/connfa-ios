@@ -12,13 +12,13 @@
 
 @implementation DCConstants
 
-NSString *const BASE_URL = @"https://connfa-integration.uat.link/api/v2/euna-mcdermott-dds/";;
-NSString *const SERVER_URL = @"https://connfa-integration.uat.link/";
+NSString *const BASE_URL = @"http://192.168.1.69/api/v2/north-anthony-2018/";
+NSString *const SERVER_URL = @"http://192.168.1.69/";
 NSString *const BUNDLE_NAME = @"DC-Theme";
 NSString *const GOOGLE_ANALYTICS_APP_ID = @"UA-93776333-4";
 NSString *const TWITTER_API_KEY = @"Mxl1GoGSM98T3jTIWdlUuqXmh";
 NSString *const TWITTER_API_SECRET = @"UM74rykaGhxPhhKED2KxJrd6zGBLNWgVsGdlzjdSwSNqLTiyqY";
-NSString *const EVENT_NAME = @"Connfa";
+NSString *const EVENT_NAME = @"North Anthony 2018";
 
 +(NSArray*)appMenuItems {
   NSArray* menuItems = @[
