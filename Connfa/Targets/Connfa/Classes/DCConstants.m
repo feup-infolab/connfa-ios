@@ -12,8 +12,8 @@
 
 @implementation DCConstants
 
-NSString *const BASE_URL = @"http://192.168.1.69/api/v2/north-anthony-2018/";
-NSString *const SERVER_URL = @"http://192.168.1.69/";
+NSString *const BASE_URL = @"http://172.30.10.60/api/v2/north-anthony-2018/";
+NSString *const SERVER_URL = @"http://172.30.10.60/";
 NSString *const BUNDLE_NAME = @"DC-Theme";
 NSString *const GOOGLE_ANALYTICS_APP_ID = @"UA-93776333-4";
 NSString *const TWITTER_API_KEY = @"Mxl1GoGSM98T3jTIWdlUuqXmh";
