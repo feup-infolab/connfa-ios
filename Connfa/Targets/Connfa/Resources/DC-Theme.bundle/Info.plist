@@ -7,9 +7,9 @@
 	<key>EventPlace</key>
 	<string></string>
 	<key>NavigationBarColour</key>
-	<string>#3d4760 </string>
+	<string>#0f3e95</string>
 	<key>EventDetailHeaderColour</key>
-	<string>#3d4760 </string>
+	<string>#0f3e95</string>
 	<key>EventDetailNavBarTextColour</key>
 	<string>#ffffff</string>
 	<key>FavoriteEventColour</key>
